@@ -1,0 +1,4 @@
+Added new product: ID=11, Product=www, price=23, Total Quantity=2
+Added new product: ID=11, Product=2, price=3, Total Quantity=4
+Added Stock: ID=11, Quantity Added=6
+Total money of all products: 288
